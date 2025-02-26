@@ -96,6 +96,9 @@ body{
     padding-left:0;
     padding-right:0;
 }
+.btns{
+    display: flex;
+}
 
 /* maps */
 #map{
